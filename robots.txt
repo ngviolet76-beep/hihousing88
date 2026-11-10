@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 공개 주소를 정한 뒤 [배포 후 입력] 부분을 실제 주소로 바꾸세요.
+Sitemap: [배포 후 입력]/sitemap.xml
